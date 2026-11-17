@@ -67,7 +67,7 @@ I'm a **backend / full-stack engineer** who likes the parts of a system that hav
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 <p align="center">
   <b>Let's build something reliable together.</b> Reach out about backend roles, auth/security work, or anything distributed. 🤝

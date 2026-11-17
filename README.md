@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Mayur Bagul — Software Engineer" />
+  <img src="./banner.svg" width="100%" alt="Mayur Bagul — Software Engineer" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/Open_to_work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 👨‍💻 About me
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal intro" />
+<img src="./terminal.svg" width="100%" alt="Terminal intro" />
 
 I'm a **backend / full-stack engineer** who likes the parts of a system that have to be right: authentication, money math, and the plumbing between services.
 
@@ -26,13 +26,13 @@ I'm a **backend / full-stack engineer** who likes the parts of a system that hav
 - ☁️ Shipping with **Docker** and **Terraform** on **AWS**
 - 🌱 Currently: finishing the Split Money frontend and adding observability to my API gateway
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## ⚡ What I can do
 
-<img src="./assets/skills.svg" width="100%" alt="What I can do: Distributed Systems, Microservices, REST APIs, GraphQL, System Design, Problem Solving, Data Structures" />
+<img src="./skills.svg" width="100%" alt="What I can do: Distributed Systems, Microservices, REST APIs, GraphQL, System Design, Problem Solving, Data Structures" />
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 🚀 Featured work
 
@@ -44,7 +44,7 @@ I'm a **backend / full-stack engineer** who likes the parts of a system that hav
 | 🔑 | **[auth-service-argon2](https://github.com/mayurbagul03/auth-service-argon2)** | Standalone authentication service with Argon2 password hashing | Node.js · Express |
 | ☁️ | **[terraform-s3bucket](https://github.com/mayurbagul03/terraform-s3bucket)** | S3 infrastructure as code | Terraform · AWS |
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="./divider.svg" width="100%" />
 
 ## 🧰 Tech I use
 
